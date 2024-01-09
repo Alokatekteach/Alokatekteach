@@ -4,7 +4,7 @@
 <h3 align="center">A Robotics & AI developer from Sri Lanka</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://thetechnocraft.com/images/software.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokatekteach&label=Profile%20views&color=0e75b6&style=flat" alt="alokatekteach" /> </p>
