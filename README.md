@@ -1,10 +1,8 @@
-
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Aloka Malinga</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
-
+<h3 align="center">A Robotics & AI developer from Sri Lanka</h3>
+[![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)](https://rishavchanda.io)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokatekteach&label=Profile%20views&color=0e75b6&style=flat" alt="alokatekteach" /> </p>
 
