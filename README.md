@@ -4,10 +4,13 @@
 <h3 align="center">A Robotics & AI developer from Sri Lanka</h3>
 
 
-[![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)](https://rishavchanda.io)
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alokatekteach&label=Profile%20views&color=0e75b6&style=flat" alt="alokatekteach" /> </p>
 
+
+<p align="left"> <a href="https://twitter.com/alokatekteach" target="blank"><img src="https://img.shields.io/twitter/follow/alokatekteach?logo=twitter&style=for-the-badge" alt="alokatekteach" /></a> </p>
 
 - 🔭 I’m currently working on [AI](https://www.youtube.com/@Alokatekteach)
 
