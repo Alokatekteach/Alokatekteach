@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Aloka Malinga</h1>
 <h3 align="center">A Robotics & AI developer from Sri Lanka</h3>
-[![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif)](https://rishavchanda.io)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokatekteach&label=Profile%20views&color=0e75b6&style=flat" alt="alokatekteach" /> </p>
 
